@@ -1,5 +1,5 @@
-parameters:
-  sonar_token: ''
+# parameters:
+#   sonar_token: ''
 
 jobs:
 - job: Sonar_SAST_Scan_Job

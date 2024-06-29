@@ -1,5 +1,5 @@
-parameters:
-  snyk_Token: ''
+# parameters:
+#   snyk_Token: ''
 
 jobs:
 - job: Snyk_SCA_Scan_Job
